@@ -1,18 +1,17 @@
 
-html{
-   background-image: url(Images/Clouds.jpg);
-    background-size: cover;
-}
-
 body{
+  background-color: black;
     text-align:center;
     font-family: pacifico, Arial, Helvetica, sans-serif;
+    font-size: 20pt;
 
 }
 h1{
         border-top: 1px dotted #686143;
     border-bottom: 1px dotted #686143;
 }
+
+
 h1{
     font-family: sans-serif;
     font-size: 20pt;
@@ -25,13 +24,14 @@ h2{
     margin-left:auto;
     margin-right:auto;
     font-size: 12pt;
+      color: white;
 }
 h2{
     font-family: annie use your telescope, sans-serif;
       font-family: pacifica,annie use your telescope;
 }
 img{
-    border:medium solid #4f9eff;
+
     box-shadow: 5px 5px 5px rgba(0,0,0,.3);
 }
 a{
@@ -42,3 +42,8 @@ a{
 a:hover{
     color:#fffb14;
 }
+
+.name {
+	font-size:40px;
+	font-family: annie use your telescope, sans-serif;
+  color: blue;
